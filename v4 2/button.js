@@ -1,7 +1,6 @@
-// fonction qui masque les émojis substitus. Elle agit grâce à un click à la textarea .text
 
-// fonction nettoyage appelée par le bouton "Clear"
 
+// Button take the action to clear the textarea 
 var input = document.querySelector('#clear');
 var textarea = document.querySelector('.text');
 
