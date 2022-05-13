@@ -1,6 +1,5 @@
 // Take the translate class 
-let showEmoji = document.querySelector('.emoji-translation');
-
+let showEmoji = document.querySelector('.emojis');
 // Words dictionnary 
 const dicoEmojis =  {
   "ballon": " 🎈  ",
