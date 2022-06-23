@@ -8,6 +8,8 @@ chrome extension : Pop up with textarea you write a sentence and discover it in 
 
 > Emoji animation : https://codepen.io/Adir-SL/pen/BXQBLx
 
+-> The word used must be in the dictionnary or it will not be translated 
+
 => Write a sentence and pimp her !! <=
 
 JS/ CSS/ HTML 
