@@ -1,6 +1,6 @@
 # pimp_emoji
 
-chrome extension : Pop Up with textarea you write a sentence and discover it in emoji translation
+chrome extension : Pop up with textarea you write a sentence and discover it in emoji translation
 
 > Front end : pop up design + button for clear 
 
