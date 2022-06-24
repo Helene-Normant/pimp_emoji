@@ -12,6 +12,10 @@ chrome extension : Pop up with textarea you write a sentence and discover it in 
 
 => Write a sentence and pimp her !! <=
 
+<p align="center">
+  <img src="https://github.com/Helene-Normant/pimp_emoji/blob/main/v4%202/pimp_emoji.png?raw=true" width="350" title="hover text">
+</p>
+
 JS/ CSS/ HTML 
 
 ADA Tech School project 
